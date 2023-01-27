@@ -26,4 +26,5 @@ function primeX(number) {
     console.log(primeX(10))  // 29
     console.log(primeX(15))  // 47
     console.log(primeX(20)) // 71
+    console.log(primeX(30))
     
